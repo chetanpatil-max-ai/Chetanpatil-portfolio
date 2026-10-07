@@ -1,11 +1,11 @@
-# Chetanpatil-portfolioexport default function Portfolio() { return ( <div className="min-h-screen bg-white text-gray-900 font-sans"> <header className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-6 shadow-md"> <h1 className="text-4xl font-bold">Chetan Patil</h1> <p className="text-lg">Senior Data Analyst | Ex-Deloitte | Founder of Novaritz</p> </header>
+# Chetanpatil-portfolioexport default function Portfolio() { return ( <div className="min-h-screen bg-white text-gray-900 font-sans"> <header className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-6 shadow-md"> <h1 className="text-4xl font-bold">Chetan Patil</h1> <p className="text-lg"> Data Analyst | Founder of Novaritz</p> </header>
 
 <main className="p-6 max-w-5xl mx-auto">
     {/* About Section */}
     <section className="my-12">
       <h2 className="text-2xl font-semibold mb-4">About Me</h2>
       <p>
-        I’m a highly motivated data professional with 3+ years of experience at Deloitte Consulting, specializing in transforming business data into actionable insights. As the founder of Novaritz, I aim to provide freelance job opportunities to talented individuals from small towns.
+        I’m a highly motivated data professional with years of semi-experience , specializing in transforming business data into actionable insights. As the founder of Novaritz, I aim to provide freelance job opportunities to talented individuals from small towns.
       </p>
     </section>
 
